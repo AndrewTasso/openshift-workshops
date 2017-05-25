@@ -52,7 +52,7 @@ Don't worry, it's supposed to look empty right now because you currently don't h
 > <i class="fa fa-terminal"></i> Open a terminal and login using the same URI/user/password with following command:
 
 {% highlight csh %}
-$ oc login https://master.ose.lab-emergent360.com:8443
+$ oc login https://master.ose.naps-redhat.com:8443
 {% endhighlight %}
 
 > <i class="fa fa-terminal"></i> Check to see what projects you have access to:

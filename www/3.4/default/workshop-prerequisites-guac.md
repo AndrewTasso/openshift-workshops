@@ -7,7 +7,7 @@ categories: [developers, developers]
 ---
 ### Ensure that you can access the OpenShift environment in browser
 Ensure that you can access the OpenShift workshop environment in a browser. The URL is
-<a href="https://master.ose.lab-emergent360.com:8443/console/">https://master.ose.lab-emergent360.com:8443/console/</a> and you should be able to log in with the credentials provided on the sheet of paper.
+<a href="https://master.ose.naps-redhat.com:8443/console">https://master.ose.naps-redhat.com:8443/console</a> and you should be able to log in with the credentials provided on the sheet of paper.
 
 ### Ensure that you can access the Guacamole environment in browser
 To run through the labs using the command line tool, we have provided you a URL and credentials for the Guacamole environment. Guacamole works as a remote desktop running in a browser, and you would have access to the <strong>oc</strong> command line tools needed to complete the workshops using the CLI instructions.
